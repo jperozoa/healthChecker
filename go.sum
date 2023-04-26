@@ -1,0 +1,4 @@
+github.com/fulldump/goconfig v1.6.1 h1:3Xif582G08uAWfiLIYFLgdZ/H+lUu1kCgMaZdMM44WQ=
+github.com/fulldump/goconfig v1.6.1/go.mod h1:qsSyOhlzhYkL2dJ3KWKxs1hX3Qv58Jzj8pRsIEkHmUY=
+github.com/jperozoa/golog v0.0.1 h1:wWaDSkO9ytcALY+46r39TODh++vDa81iNOPsFzkFh68=
+github.com/jperozoa/golog v0.0.1/go.mod h1:e0vMMnnadmcQwaq/wc1hszlleniDrGfOaNOrlbgtSWc=
